@@ -6,7 +6,8 @@ end
 
 def badge_creator(attendees)
   new_array = []
-  
+  array.each do |name|
+    
 end 
 
 def assign_rooms(rooms)
