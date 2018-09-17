@@ -12,7 +12,8 @@ end
 
 def assign_rooms(array)
   new_array = []
-  array.each do ||
+  array.each do |name|
+    new_array.push()
 end
 
 def printer(badges, rooms)
