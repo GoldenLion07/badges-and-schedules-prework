@@ -5,7 +5,7 @@ def badge_maker(name)
 end
 
 def badge_creator(attendees)
-  #
+  return new_array
 end 
 
 def assign_rooms(rooms)
